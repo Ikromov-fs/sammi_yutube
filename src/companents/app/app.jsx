@@ -1,5 +1,5 @@
-import React from 'react'
 import { Box } from '@mui/material'
+import React from 'react'
 import { Routes, Route } from 'react-router-dom'
 import { Main, Chanell, Vidio, Search, Navbar } from '../'
 const App = () => {
