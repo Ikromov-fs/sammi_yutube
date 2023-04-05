@@ -1,0 +1,30 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.search-bar {
+  border: none;
+  outline: none;
+  width: 350px;
+  font-size: 16px;
+}
+
+.catagoriy-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: none;
+  padding: 0 5px;
+  width: 90%;
+  height: 45px;
+  margin: 0 5px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.catagoriy-btn:hover {
+  background-color: #471010;
+  color: #fff;
+}

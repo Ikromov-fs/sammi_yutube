@@ -1,0 +1,8 @@
+export { default as App } from './app/app'
+export { default as Main } from './main/main'
+export { default as Chanell } from './channel/chanell'
+export { default as Vidio } from './vidio/vidio'
+export { default as Navbar } from './navbar/navbar'
+export { default as Search } from './search/search'
+export { default as Searchbar } from './search-bar/searchbar'
+export {default as Catagory} from './catagory/catagory'
